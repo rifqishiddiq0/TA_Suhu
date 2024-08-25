@@ -1,0 +1,7 @@
+{
+  "search.exclude": {
+    ".yarn": true,
+    ".next": true,
+    "node_modules": true
+  }
+}

@@ -1,0 +1,9 @@
+# Node modules
+node_modules
+
+# Yarn
+.yarn
+
+# Next.js artifacts
+.next
+out
